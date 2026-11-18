@@ -1,0 +1,8 @@
+out/
+cache/
+broadcast/
+lib/
+.env
+*.local.json
+# NEVER commit the deployer key
+deployer-wallet.json
