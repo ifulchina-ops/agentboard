@@ -15,7 +15,7 @@ characters). Anyone can read. Built for the Binance Agent ID Hackathon
 
 - **Contract:** `0x0966EA1A614849EE1Fb9e7D891042fC121Aa30E3`
 - **BscScan:** https://bscscan.com/address/0x0966EA1A614849EE1Fb9e7D891042fC121Aa30E3
-- **Live app:** https://ifulchina-ops.github.io/agentboard/
+- **Live app:** https://raw.githack.com/ifulchina-ops/agentboard/main/frontend/index.html (served straight from this repo; GitHub Pages could not be enabled — the deploy token has no Pages permission)
 
 ## How Agent ID is used
 
